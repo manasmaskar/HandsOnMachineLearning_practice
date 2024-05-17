@@ -1,0 +1,15 @@
+Q1 How would you define Machine Learning?
+        1. Art and Science of programming computers so they can learn from data
+        2. Helps the Computer to learn the process without explicitly programming everything
+        3. Spam filtering process in emails. 
+
+
+Q2 Name four types of problems where ML shines?
+        1. ML excels in the areas wher ethe existing solutions require a lot of hand tuning or long lists of if and else or rather
+        any other conditional statements 
+        2. When is there is no good traditional solution.
+        3. Fluctuating environments, eg the parameters might change or everytime new data is transmitted to the machine.
+        4. Getting insights about complex problems and large amounts of data.
+
+
+Q3. What is a labelled training set?
